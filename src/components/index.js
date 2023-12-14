@@ -1,3 +1,5 @@
+export * from './CategoriesFilter';
 export * from './Product';
 export * from './ProductList';
-export * from './UserPanel';
+export * from './SearchBar';
+export * from './UserFilter';
